@@ -1,5 +1,5 @@
 {
-  "name": "vmess or vles",
+  "name": "vs or vles",
   "description": "vmess or vles",
   "keywords": [
     "vmess or vles"
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/flyergo123/key",
+  "repository": "https://github.com/flyergo123/key",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
